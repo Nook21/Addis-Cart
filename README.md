@@ -53,12 +53,12 @@
 
 ### STAP-2
 - `cd frontend`
-- `yarn install`
-- `yarn start`
+- `npm install`
+- `npm start`
 
 ### STAP-3
 - `cd backend`
-- `yarn install`
+- `npm install`
 - create folder `uploads`
 - create `confilg` folder and a `.env` file
 - use your Cradincial in.env file
@@ -76,17 +76,16 @@ SMPT_MAIL =
 STRIPE_API_KEY = 
 STRIPE_SECRET_KEY = 
 ```
-- `yarn start`
+- `npm start`
 
 ### STAP-4
 
 - `cd socket`
-- `yarn install`
+- `npm install`
 - create a `.env` file
 ```
 PORT = 4000
-```
-- `yarn start`
+
 
 
 
