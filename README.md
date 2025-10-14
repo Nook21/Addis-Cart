@@ -41,15 +41,11 @@
   - .env
   - index.js
   - package.json
-#### `.gitignore` - Tells git which files to ignore
-#### `README` - This file!
+
 
 ---
 
-💻 How to run the app locally! 🏃
 
-### STAP-1
-`git clone https://github.com/pattjoshi/Multi_vondor_E_shop.git`
 
 ### STAP-2
 - `cd frontend`
